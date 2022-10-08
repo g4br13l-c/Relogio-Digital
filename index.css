@@ -1,0 +1,17 @@
+#rel{
+    position: absolute;
+    left: 500px;
+    top: 200px;
+    font-size: 100px;
+}
+
+#date{
+    position: absolute;
+    left: 500px;
+    top: 200px;
+    font-size: 30px;
+}
+
+#container{
+    margin-top: 100px;
+}
